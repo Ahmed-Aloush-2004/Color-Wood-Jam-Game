@@ -1,0 +1,8 @@
+# Python cache files
+__pycache__/
+
+# VS Code settings (optional, but good practice)
+.vscode/
+
+# Project-specific files you don't want to track (like log files, database files)
+*.log

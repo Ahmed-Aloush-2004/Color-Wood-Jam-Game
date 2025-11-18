@@ -1,0 +1,41 @@
+{
+  "gridWidth": 6,
+  "gridHeight": 6,
+  "slices": [
+    {
+      "color": "red",
+      "cells": [
+        { "x": 1, "y": 1 },
+        { "x": 1, "y": 2 },
+        { "x": 2, "y": 1 },
+        { "x": 1, "y": 3 }
+      ]
+    },
+    {
+      "color": "blue",
+      "cells": [
+        { "x": 1, "y": 4 },
+        { "x": 2, "y": 4 },
+        { "x": 3, "y": 4 }
+      ]
+    },
+    {
+      "color": "yellow",
+      "cells": [
+        { "x": 4, "y": 1 },
+        { "x": 4, "y": 2 },
+        { "x": 5, "y": 2 }
+      ]
+    }
+  ],
+  "obstacles": [],
+  "outputCells": [
+    { "x": 2, "y": 7, "color": "red" },
+    { "x": 3, "y": 7, "color": "red" },
+    { "x": 2, "y": 0, "color": "blue" },
+    { "x": 3, "y": 0, "color": "blue" },
+    { "x": 4, "y": 0, "color": "blue" },
+    { "x": 7, "y": 4, "color": "yellow" },
+    { "x": 7, "y": 5, "color": "yellow" }
+  ]
+}
