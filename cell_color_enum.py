@@ -2,6 +2,7 @@ from enum import Enum
 
 
 class CellColor(Enum):
+    FOGGY = 'light gray'
     RED = 'red'
     BLUE = 'blue'
     GREEN = 'green'

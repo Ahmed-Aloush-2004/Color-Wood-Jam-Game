@@ -9,5 +9,5 @@ class Cell:
         self.y = y
         self.cellType = cellType
         self.cellColor = cellColor
-        self.slice = None  # Will be assigned later
+        self.slice = None  
 
