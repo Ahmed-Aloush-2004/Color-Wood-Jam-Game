@@ -1,5 +1,4 @@
 from enum import Enum
-import random
 
 class CellColor(Enum):
     FOGGY = 'light gray'
@@ -8,7 +7,8 @@ class CellColor(Enum):
     GREEN = 'green'
     YELLOW = 'yellow'
     BLACK = 'black'
-    WHITE = 'white'
+    PURPLE = 'purple'
+    ORANGE = 'orange'
 
 
 

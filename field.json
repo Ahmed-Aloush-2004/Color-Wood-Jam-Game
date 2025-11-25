@@ -3,7 +3,8 @@
     "cols": 8,
     "shapes": [
         {
-            "colors": 1,
+            "colors": 7,
+            "numberToBeAbleToMoveIt":2,
             "coordinates": [
                 [
                     1,
@@ -21,8 +22,7 @@
                     2,
                     4
                 ]
-            ],
-            "direction": "horizontal"
+            ]
         },
         {
             "colors": 1,
@@ -181,7 +181,8 @@
                     5,
                     6
                 ]
-            ]
+            ]        
+            
         },
         {
             "colors": 7,
