@@ -12,7 +12,7 @@
       "directions": ["top", "bottom", "left", "right"]
     },
     {
-      "color": "blue",
+      "color": "red",
       "cells": [
         { "x": 1, "y": 4 },
         { "x": 2, "y": 4 },
@@ -63,7 +63,7 @@
       ]
     }
   ],
-  "obstacles": [
+  "constantSlices": [
     {
       "color": "black",
       "cells": [{ "x": 0, "y": 0 }]
