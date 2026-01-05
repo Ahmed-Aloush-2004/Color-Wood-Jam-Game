@@ -1,6 +1,6 @@
 from cell_type_enum import CellType
 from cell_color_enum import CellColor
-from typing import Optional  # for clear type hinting
+from typing import Optional  
 
 
 class Cell:
